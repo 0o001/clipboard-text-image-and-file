@@ -1,0 +1,32 @@
+c:\users\mustafa\documents\visual studio 2010\Projects\clipboardtextimageandfile\bin\Debug\clipboardtextimageandfile.exe
+c:\users\mustafa\documents\visual studio 2010\Projects\clipboardtextimageandfile\bin\Debug\clipboardtextimageandfile.pdb
+c:\users\mustafa\documents\visual studio 2010\Projects\clipboardtextimageandfile\obj\x86\Debug\clipboardtextimageandfile.Properties.Resources.resources
+c:\users\mustafa\documents\visual studio 2010\Projects\clipboardtextimageandfile\obj\x86\Debug\clipboardtextimageandfile.csproj.GenerateResource.Cache
+c:\users\mustafa\documents\visual studio 2010\Projects\clipboardtextimageandfile\obj\x86\Debug\clipboardtextimageandfile.exe
+c:\users\mustafa\documents\visual studio 2010\Projects\clipboardtextimageandfile\obj\x86\Debug\clipboardtextimageandfile.pdb
+C:\Users\mustafa\documents\visual studio 2010\Projects\clipboardtextimageandfile\obj\x86\Debug\clipboardtextimageandfile.csprojResolveAssemblyReference.cache
+C:\Users\mustafa\documents\visual studio 2010\Projects\clipboardtextimageandfile\obj\x86\Debug\clipboardtextimageandfile.frm_kopyala.resources
+C:\Users\mustafa\Desktop\New folder\clipboardtextimageandfile\bin\Debug\Kopyala.exe
+C:\Users\mustafa\Desktop\New folder\clipboardtextimageandfile\bin\Debug\Kopyala.pdb
+C:\Users\mustafa\Desktop\New folder\clipboardtextimageandfile\obj\x86\Debug\clipboardtextimageandfile.csprojResolveAssemblyReference.cache
+C:\Users\mustafa\Desktop\New folder\clipboardtextimageandfile\obj\x86\Debug\clipboardtextimageandfile.frm_kopyala.resources
+C:\Users\mustafa\Desktop\New folder\clipboardtextimageandfile\obj\x86\Debug\clipboardtextimageandfile.Properties.Resources.resources
+C:\Users\mustafa\Desktop\New folder\clipboardtextimageandfile\obj\x86\Debug\clipboardtextimageandfile.csproj.GenerateResource.Cache
+C:\Users\mustafa\Desktop\New folder\clipboardtextimageandfile\obj\x86\Debug\Kopyala.exe
+C:\Users\mustafa\Desktop\New folder\clipboardtextimageandfile\obj\x86\Debug\Kopyala.pdb
+C:\Users\musta\Desktop\Masaüstü\Sağ masaüstü\nullDB\Uygulamalar\Yayına Hazır\clipboardtextimageandfile\obj\x86\Debug\clipboardtextimageandfile.csprojResolveAssemblyReference.cache
+C:\Users\musta\Desktop\Masaüstü\Sağ masaüstü\nullDB\Uygulamalar\Yayına Hazır\clipboardtextimageandfile\obj\x86\Debug\clipboardtextimageandfile.frm_kopyala.resources
+C:\Users\musta\Desktop\Masaüstü\Sağ masaüstü\nullDB\Uygulamalar\Yayına Hazır\clipboardtextimageandfile\obj\x86\Debug\clipboardtextimageandfile.Properties.Resources.resources
+C:\Users\musta\Desktop\Masaüstü\Sağ masaüstü\nullDB\Uygulamalar\Yayına Hazır\clipboardtextimageandfile\obj\x86\Debug\clipboardtextimageandfile.csproj.GenerateResource.Cache
+C:\Users\musta\Desktop\Masaüstü\Sağ masaüstü\nullDB\Uygulamalar\Yayına Hazır\clipboardtextimageandfile\bin\Debug\CopyBoard.exe
+C:\Users\musta\Desktop\Masaüstü\Sağ masaüstü\nullDB\Uygulamalar\Yayına Hazır\clipboardtextimageandfile\bin\Debug\CopyBoard.pdb
+C:\Users\musta\Desktop\Masaüstü\Sağ masaüstü\nullDB\Uygulamalar\Yayına Hazır\clipboardtextimageandfile\obj\x86\Debug\CopyBoard.exe
+C:\Users\musta\Desktop\Masaüstü\Sağ masaüstü\nullDB\Uygulamalar\Yayına Hazır\clipboardtextimageandfile\obj\x86\Debug\CopyBoard.pdb
+I:\YEDEK\Null Team Folder\Null Team Folder 16.08.2016 09.58\Null Team Folder\Projeler\Masaüstü\Yayına Hazır\CopyBoard\clipboardtextimageandfile v2.0\obj\x86\Debug\CopyBoard.exe
+I:\YEDEK\Null Team Folder\Null Team Folder 16.08.2016 09.58\Null Team Folder\Projeler\Masaüstü\Yayına Hazır\CopyBoard\clipboardtextimageandfile v2.0\obj\x86\Debug\CopyBoard.pdb
+I:\YEDEK\Null Team Folder\Null Team Folder 16.08.2016 09.58\Null Team Folder\Projeler\Masaüstü\Yayına Hazır\CopyBoard\clipboardtextimageandfile v2.0\bin\Debug\CopyBoard.exe
+I:\YEDEK\Null Team Folder\Null Team Folder 16.08.2016 09.58\Null Team Folder\Projeler\Masaüstü\Yayına Hazır\CopyBoard\clipboardtextimageandfile v2.0\bin\Debug\CopyBoard.pdb
+I:\YEDEK\Null Team Folder\Null Team Folder 16.08.2016 09.58\Null Team Folder\Projeler\Masaüstü\Yayına Hazır\CopyBoard\clipboardtextimageandfile v2.0\obj\x86\Debug\clipboardtextimageandfile.csprojResolveAssemblyReference.cache
+I:\YEDEK\Null Team Folder\Null Team Folder 16.08.2016 09.58\Null Team Folder\Projeler\Masaüstü\Yayına Hazır\CopyBoard\clipboardtextimageandfile v2.0\obj\x86\Debug\clipboardtextimageandfile.frm_kopyala.resources
+I:\YEDEK\Null Team Folder\Null Team Folder 16.08.2016 09.58\Null Team Folder\Projeler\Masaüstü\Yayına Hazır\CopyBoard\clipboardtextimageandfile v2.0\obj\x86\Debug\clipboardtextimageandfile.Properties.Resources.resources
+I:\YEDEK\Null Team Folder\Null Team Folder 16.08.2016 09.58\Null Team Folder\Projeler\Masaüstü\Yayına Hazır\CopyBoard\clipboardtextimageandfile v2.0\obj\x86\Debug\clipboardtextimageandfile.csproj.GenerateResource.Cache
